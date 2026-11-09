@@ -104,8 +104,6 @@ saif = {
 
 [![contributions](https://ghchart.rshah.org/6366f1/saifbnt)](https://github.com/saifbnt)
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=saifbnt&bg_color=0d1117&color=6366f1&line=06b6d4&point=ffffff&area=true&hide_border=true)](https://github.com/saifbnt)
-
 </div>
 
 ---
