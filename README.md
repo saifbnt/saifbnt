@@ -36,25 +36,19 @@ saif = {
 
 **🔐 Cybersecurity**
 
-[![security](https://skillicons.dev/icons?i=linux,bash,kali&theme=dark)](https://skillicons.dev)
-
-`Kali Linux` · `Burp Suite` · `OWASP ZAP` · `Nmap` · `Vulnerability Assessment` · `Penetration Testing` · `Intrusion Detection` · `Active Directory` · `OWASP Top 10` · `ISO 27001/27005`
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-6366f1?style=flat-square) ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-6366f1?style=flat-square) ![Intrusion Detection](https://img.shields.io/badge/Intrusion_Detection-6366f1?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white) ![ISO 27001/27005](https://img.shields.io/badge/ISO_27001/27005-6366f1?style=flat-square)
 
 **⚙️ DevSecOps & CI/CD**
 
-[![devops](https://skillicons.dev/icons?i=docker,github,githubactions,terraform,grafana,nginx,postgres,redis&theme=dark)](https://skillicons.dev)
-
-`Docker` · `GitHub Actions` · `Bitbucket Pipelines` · `Terraform` · `Prometheus` · `Grafana` · `Loki` · `Trivy` · `GitLeaks` · `Snyk`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square) ![GitLeaks](https://img.shields.io/badge/GitLeaks-6366f1?style=flat-square) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 
 **🧪 QA & Test Automation**
 
-[![qa](https://skillicons.dev/icons?i=selenium,java,postman,jira&theme=dark)](https://skillicons.dev)
-
-`Selenium WebDriver` · `TestNG` · `Postman` · `Bruno` · `Xray` · `Jira` · `API Testing` · `Regression Testing` · `CI/CD Testing`
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square) ![Xray](https://img.shields.io/badge/Xray-6366f1?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![API Testing](https://img.shields.io/badge/API_Testing-6366f1?style=flat-square) ![Regression Testing](https://img.shields.io/badge/Regression_Testing-6366f1?style=flat-square) ![CI/CD Testing](https://img.shields.io/badge/CI/CD_Testing-6366f1?style=flat-square)
 
 **💻 Development**
 
-[![dev](https://skillicons.dev/icons?i=python,javascript,java,flask,django,react&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
 
 ---
 
