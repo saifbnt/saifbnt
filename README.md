@@ -2,7 +2,7 @@
 
 # Saif Eddine Ben Torkia
 
-#### `Cybersecurity Analyst` · `DevSecOps Engineer` · `QA Automation`
+#### `QA Automation Engineer`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifbentorkia/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifbnt)
@@ -19,7 +19,7 @@ Cybersecurity and DevSecOps engineer with hands-on experience in test automation
 
 ```python
 saif = {
-    "role":       ["Cybersecurity Analyst", "DevSecOps Engineer", "QA Automation"],
+    "role":       "QA Automation Engineer",
     "location":   "🇹🇳 Nabeul, Tunisia",
     "experience": "Proven Software · QA Automation Engineer (Jul 2025 → Present)",
     "education":  "Engineering Degree – Cybersecurity & DevOps @ SESAME University",
