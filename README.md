@@ -15,14 +15,17 @@
 
 ## 👨‍💻 About Me
 
+Cybersecurity and DevSecOps engineer with hands-on experience in test automation and quality assurance. I cover the full secure software development lifecycle: from designing CI/CD pipelines to vulnerability detection, through functional and regression test automation.
+
 ```python
 saif = {
     "role":       ["Cybersecurity Analyst", "DevSecOps Engineer", "QA Automation"],
-    "location":   "🇹🇳 Tunis, Tunisia",
-    "experience": "Proven Software · QA Automation Engineer (2025 → Present)",
-    "education":  "Diplôme d'Ingénieur – Cybersécurité & DevOps @ SESAME University",
+    "location":   "🇹🇳 Nabeul, Tunisia",
+    "experience": "Proven Software · QA Automation Engineer (Jul 2025 → Present)",
+    "education":  "Engineering Degree – Cybersecurity & DevOps @ SESAME University",
     "focus":      ["Penetration Testing", "CI/CD Security", "Test Automation"],
     "tools":      ["Selenium WebDriver", "Burp Suite", "Docker", "GitHub Actions"],
+    "languages":  {"Arabic": "Native", "English": "Professional", "French": "Professional"},
     "motto":      "Break it to secure it. Automate it to scale it. 🛡️",
 }
 ```
@@ -34,21 +37,38 @@ saif = {
 **🔐 Cybersecurity**
 
 [![security](https://skillicons.dev/icons?i=linux,bash,kali&theme=dark)](https://skillicons.dev)
-`Kali Linux` · `Burp Suite` · `Nmap` · `Pentesting` · `Active Directory` · `Threat Detection`
+
+`Kali Linux` · `Burp Suite` · `OWASP ZAP` · `Nmap` · `Vulnerability Assessment` · `Penetration Testing` · `Intrusion Detection` · `Active Directory` · `OWASP Top 10` · `ISO 27001/27005`
 
 **⚙️ DevSecOps & CI/CD**
 
-[![devops](https://skillicons.dev/icons?i=docker,github,githubactions,terraform,grafana&theme=dark)](https://skillicons.dev)
-`Docker` · `GitHub Actions` · `Bitbucket Pipelines` · `Terraform` · `Prometheus` · `Loki`
+[![devops](https://skillicons.dev/icons?i=docker,github,githubactions,terraform,grafana,nginx,postgres,redis&theme=dark)](https://skillicons.dev)
+
+`Docker` · `GitHub Actions` · `Bitbucket Pipelines` · `Terraform` · `Prometheus` · `Grafana` · `Loki` · `Trivy` · `GitLeaks` · `Snyk`
 
 **🧪 QA & Test Automation**
 
 [![qa](https://skillicons.dev/icons?i=selenium,java,postman,jira&theme=dark)](https://skillicons.dev)
-`Selenium WebDriver` · `TestNG` · `Postman` · `Bruno` · `Xray` · `Jira`
+
+`Selenium WebDriver` · `TestNG` · `Postman` · `Bruno` · `Xray` · `Jira` · `API Testing` · `Regression Testing` · `CI/CD Testing`
 
 **💻 Development**
 
-[![dev](https://skillicons.dev/icons?i=python,javascript,java,django,react&theme=dark)](https://skillicons.dev)
+[![dev](https://skillicons.dev/icons?i=python,javascript,java,flask,django,react&theme=dark)](https://skillicons.dev)
+
+---
+
+## 💼 Experience
+
+**QA Automation Engineer** — Proven Software *(Remote)* · Jul 2025 → Present
+- Developed automated test scripts with Selenium WebDriver, TestNG and Postman/Bruno to validate web application functionalities and API endpoints
+- Integrated automated tests into CI/CD pipelines via Bitbucket for continuous validation during development
+- Managed test execution and defect tracking with Xray and Jira, maintaining comprehensive test coverage reports
+
+**Cybersecurity Engineer Intern** — MEDIANET *(Tunis, Tunisia)* · Feb 2024 → Jul 2024
+- Designed and developed a web vulnerability scanner identifying common flaws (XSS, SQLi, CSRF, LFI/RFI)
+- Implemented automated security assessments on web applications with detailed report generation
+- Used Kali Linux, Burp Suite and OWASP ZAP to strengthen the organization's defense posture
 
 ---
 
@@ -56,38 +76,35 @@ saif = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏠 **Homelab DevSecOps** | Web vulnerability scanner detecting XSS, SQLi, CSRF, LFI/RFI with automated reporting | `Python` `Docker` `CI/CD` |
-| 🔍 **Web Vuln Scanner** | Built at MEDIANET internship — identifies common web flaws with detailed reports | `Python` `Burp Suite` |
+| 🏠 **Homelab DevSecOps** | Containerized DevOps infrastructure with real-time monitoring and a security-focused CI/CD pipeline (Trivy, GitLeaks, Snyk) | `Flask` `PostgreSQL` `Redis` `Nginx` `Docker` `Prometheus` `Grafana` `Loki` `GitHub Actions` |
+| 🔍 **Web Vuln Scanner** | Built during the MEDIANET internship — detects XSS, SQLi, CSRF, LFI/RFI with automated reporting | `Python` `Burp Suite` `OWASP ZAP` |
 | 🧪 **QA Automation Suite** | Selenium + TestNG test scripts integrated in Bitbucket CI/CD pipelines | `Java` `Selenium` `TestNG` |
+
+---
+
+## 🎓 Education
+
+- **Engineering Degree, Cybersecurity & DevOps** — SESAME University, Tunis · Sept 2021 → May 2024
+- **Preparatory Cycle Degree** — SESAME University, Tunis · 2019 → 2021
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **DevOps Certification** — LeBonDeveloppeur · 2025 *(CI/CD, containers, IaC, DevOps best practices)*
+- 🏅 **DevOps Certification** — LeBonDeveloppeur · 2025 *(CI/CD pipelines, containerization, infrastructure automation, DevOps best practices)*
 - 🛡️ **Cybersecurity Certification** — Clevory-FTD / GIZ · Sept. 2025 *(Offensive & defensive security, threat detection, security frameworks)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
 [![streak](https://streak-stats.demolab.com?user=saifbnt&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1)](https://git.io/streak-stats)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=saifbnt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=6366f1&title_color=6366f1)](https://github.com/saifbnt)
+[![contributions](https://ghchart.rshah.org/6366f1/saifbnt)](https://github.com/saifbnt)
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifbnt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1)](https://github.com/saifbnt)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/saifbnt/saifbnt/output/github-contribution-grid-snake-dark.svg)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=saifbnt&bg_color=0d1117&color=6366f1&line=06b6d4&point=ffffff&area=true&hide_border=true)](https://github.com/saifbnt)
 
 </div>
 
